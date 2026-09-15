@@ -10,7 +10,7 @@
 
 
 
-\- Багийн гишүүн 1 — Product Owner - Мөнхжинhaha
+\- Багийн гишүүн 1 — Product Owner - Мөнхжин
 
 \- Багийн гишүүн 2 — Scrum Master - Төгөлдөр
 
