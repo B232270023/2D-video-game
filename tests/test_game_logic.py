@@ -4,7 +4,7 @@ from game_logic import add_gold
 
 
 def test_add_gold_increases_balance():
-    assert add_gold(100, 25) == 160
+    assert add_gold(100, 25) == 125
 
 
 def test_zero_reward_keeps_balance():
